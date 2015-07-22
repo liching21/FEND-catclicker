@@ -1,0 +1,28 @@
+/** css for catclicker premium */
+
+.cat-pic{
+	/*padding-top: 30px;*/
+	width: 100%;
+}
+
+body{
+	margin: 0px;
+}
+#cat-list{
+	background-color: #eee;
+	width: 200px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px;
+}
+#cat-display{
+	display: inline-block;
+	width: 200px;
+}
+
+#cat-name, #cat-counter{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 24pt;
+    font-family: sans-serif;
+}
